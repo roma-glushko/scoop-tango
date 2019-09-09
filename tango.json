@@ -1,0 +1,26 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.0/tango_1.0.0_Windows_32-bit.zip",
+            "bin": [
+                "tango.exe"
+            ],
+            "hash": "c6c897cb08ef07abe942940bd48955c8ac0596f01f72c4979c7e2ab8649d8460"
+        },
+        "64bit": {
+            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.0/tango_1.0.0_Windows_64-bit.zip",
+            "bin": [
+                "tango.exe"
+            ],
+            "hash": "9e70b75e0fa05e8e2c31c71ebf64bae5a1e55027c354f06b0b9a769a2244d89d"
+        }
+    },
+    "homepage": "https://github.com/roma-glushko/tango",
+    "license": "MIT",
+    "description": "Tango is a dependency-free command-line tool for analyzing server access logs",
+    "persist": [
+        "data",
+        "config.toml"
+    ]
+}
