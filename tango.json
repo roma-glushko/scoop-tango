@@ -6,14 +6,14 @@
             "bin": [
                 "tango.exe"
             ],
-            "hash": "bcdeb4306ad7be89876bfa513e326bae45345b9426d7c47cb2f11961765a6b9a"
+            "hash": "e7f06aba5965a4a0c7e147f4926e4592b6d054fa130cbbf37879c02167947c57"
         },
         "64bit": {
             "url": "https://github.com/roma-glushko/tango/releases/download/1.0.2-rc1/tango_1.0.2-rc1_Windows_64-bit.zip",
             "bin": [
                 "tango.exe"
             ],
-            "hash": "fec94d67b876417c85f5425e94dc2becd2097f7e42f16258d9eac162cc997831"
+            "hash": "8f5ce05eba8c17ce73d3b2e271d3639e32e88a7ced6970d70ffa95ada121f576"
         }
     },
     "homepage": "https://github.com/roma-glushko/tango",
