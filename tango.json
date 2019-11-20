@@ -1,19 +1,19 @@
 {
-    "version": "1.0.3-rc1",
+    "version": "1.0.3-rc2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.3-rc1/tango_1.0.3-rc1_Windows_32-bit.zip",
+            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.3-rc2/tango_1.0.3-rc2_Windows_32-bit.zip",
             "bin": [
                 "tango.exe"
             ],
-            "hash": "bb9b33a6d6f5e6975fa860b6465d5d4f9b1b644e9e296624e24a088a06ff4f3b"
+            "hash": "7073d695e235f75f24b5ecbda91f00b70adbc869846c332ca086dfc245d06f90"
         },
         "64bit": {
-            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.3-rc1/tango_1.0.3-rc1_Windows_64-bit.zip",
+            "url": "https://github.com/roma-glushko/tango/releases/download/1.0.3-rc2/tango_1.0.3-rc2_Windows_64-bit.zip",
             "bin": [
                 "tango.exe"
             ],
-            "hash": "e5d2ab4b1454066f48b01ccf0a0e84778ccf22fb678c8fe8f4503cb3975048b8"
+            "hash": "a22b07e4c0c0ccd6b1a41d620dc6f3d14e76210e243fc068775247ea3191cd1c"
         }
     },
     "homepage": "https://github.com/roma-glushko/tango",
